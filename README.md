@@ -2,7 +2,7 @@
 <img src="./Capture.PNG">
 
 ## A WhatsApp-Web Clone made with the MERN Stack
----
+
 ## Tech used:
 
 ### *Stack*:
