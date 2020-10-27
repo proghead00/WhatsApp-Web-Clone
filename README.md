@@ -6,6 +6,7 @@
 ## Tech used:
 
 *Stack*:
+
  **M** - MongoDb
 <br />
  **E** - Express
@@ -16,6 +17,7 @@
     <br />
 
 *Real-time updation*:
+
  **Pusher**
 
 ---
