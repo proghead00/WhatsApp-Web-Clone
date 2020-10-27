@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap");
+
+* {
+	font-family: "Rubik", sans-serif;
+}
+.app {
+	display: grid;
+	place-items: center;
+	height: 100vh;
+	background-color: rgb(248, 233, 240);
+}
+
+.app__body {
+	display: flex;
+	background-color: whitesmoke;
+	margin-top: -10px;
+	border-radius: 30px;
+	height: 90vh;
+	width: 90vw;
+	box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+}
