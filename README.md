@@ -5,7 +5,7 @@
 ---
 ## Tech used:
 
-*Stack*:
+### *Stack*:
 
  **M** - MongoDb
 <br />
@@ -16,7 +16,7 @@
 **N**- Node
     <br />
 
-*Real-time updation*:
+### *Real-time updation*:
 
  **Pusher**
 
