@@ -1,0 +1,20 @@
+{
+  "name": "wapp-backend",
+  "version": "1.0.0",
+  "description": "WhatsApp MERN Backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Susnata",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "pusher": "^4.0.0"
+  }
+}
