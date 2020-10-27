@@ -22,7 +22,7 @@ app.use(cors());
 
 // DB config
 const connection_url =
-  "mongodb+srv://admin:99yYUmQ0WyFwOs5x@cluster0.9pa0l.mongodb.net/wappdb?retryWrites=true&w=majority";
+  "<YOUR CONNECTION STRING FROM MONGODB>";
 mongoose.connect(connection_url, {
   useCreateIndex: true,
   useNewUrlParser: true,
